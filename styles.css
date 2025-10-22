@@ -1,0 +1,18 @@
+
+body {
+    margin: 0;
+}
+
+.header {
+    padding: 25px;
+}
+
+.main {
+    padding: 25px;
+}
+
+.wrapper {
+    max-width: 750px;
+    margin: auto;
+    background-color: rgb(255,235,205);
+}
